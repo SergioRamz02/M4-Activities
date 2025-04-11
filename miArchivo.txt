@@ -1,0 +1,2 @@
+Hello Contentrimer archivo creado con node.js
+Esta línea ha sido añadida
